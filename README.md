@@ -1,4 +1,4 @@
-# Text-Processing-Emails
+# Determining SPAM Emails
 
 The goals for this project are to process the emails and classify the emails.
 
