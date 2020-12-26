@@ -7,7 +7,10 @@ Most email files are not in tabular form and, therefore, it is difficult to use 
 This project's main steps are:
 
 • Reading in the email
+
 • Separating the three email components(header, attachment(s), body message)
+
 • Appending the components to a list 
+
 • Repeating process for all files
 
