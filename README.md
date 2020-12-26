@@ -14,3 +14,5 @@ This project's main steps are:
 
 • Repeating process for all files
 
+The raw data is in the SpamAssassinTrain.zip file.
+
